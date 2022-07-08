@@ -1,5 +1,5 @@
 <!--
 path: japan
-hidden: true
+published: true
 -->
 # Japan

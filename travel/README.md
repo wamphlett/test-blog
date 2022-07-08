@@ -1,5 +1,5 @@
 <!--
-path: /travel
+path: /traveling
 published: true
 -->
 # Travel

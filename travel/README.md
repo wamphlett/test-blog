@@ -1,5 +1,5 @@
 <!--
 path: /travel
-hidden: false
+published: true
 -->
 # Travel

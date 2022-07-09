@@ -14,8 +14,20 @@ Just some random text
 
 some `code` here
 
+## Some code!
+
 ```go
+# some comment
 go func() {
   fmt.Println("something")
 }()
+```
+
+
+```ahk
+; some comment
+Gui, Show
+Send C
+MsgBox Say something
+Return
 ```

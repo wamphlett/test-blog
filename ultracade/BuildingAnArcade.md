@@ -11,3 +11,6 @@ Just some random text
 <div class="double images">
   <img src="./bugsnag-slander.png" />
 </div>
+
+some `code` here
+

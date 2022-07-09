@@ -14,3 +14,8 @@ Just some random text
 
 some `code` here
 
+```go
+go func() {
+  fmt.Println("something")
+}()
+```

@@ -9,7 +9,7 @@ Just some random text
 ![bugsnag](https://raw.githubusercontent.com/wamphlett/test-blog/master/ultracade/bugsnag-slander.png)
 
 <div class="double images">
-  <img src="./bugsnag-slander.png" />
+  <img src="../images/bugsnag-slander.png" />
 </div>
 
 some `code` here

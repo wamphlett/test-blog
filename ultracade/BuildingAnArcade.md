@@ -31,3 +31,5 @@ Send C
 MsgBox Say something
 Return
 ```
+
+Look at the [other page](./LEDBlinkey.md)

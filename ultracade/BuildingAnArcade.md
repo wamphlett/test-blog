@@ -6,10 +6,9 @@ path: building-an-arcade
 
 Just some random text
 
-![bugsnag](https://raw.githubusercontent.com/wamphlett/test-blog/master/ultracade/bugsnag-slander.png)
-
 <div class="double images">
   <img src="../images/bugsnag-slander.png" />
+  <img src="https://raw.githubusercontent.com/wamphlett/test-blog/master/ultracade/bugsnag-slander.png" />
 </div>
 
 some `code` here

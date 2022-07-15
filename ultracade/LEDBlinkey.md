@@ -1,5 +1,5 @@
 <!--
-path: led-blinkey
+slug: led-blinkey
 priority: 3
 published: true
 title: LEDBlinkey

@@ -1,6 +1,6 @@
 <!--
 published: true
-path: building-an-arcade
+slug: building-an-arcade
 -->
 # Building an Arcade
 
